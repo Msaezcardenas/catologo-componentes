@@ -1,0 +1,13 @@
+.layout {
+  display: grid;
+  grid-template-columns: 1fr 3fr;
+  height: 100vh;
+}
+
+.sidebar {
+  height: 100%;
+  border: 1px solid var(--text-primary);
+}
+
+/* .page {
+} */
