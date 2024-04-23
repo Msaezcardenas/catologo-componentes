@@ -6,8 +6,10 @@
 
 .sidebar {
   height: 100%;
-  border: 1px solid var(--text-primary);
+  border-right: 1px solid var(--text-primary);
+  padding: 16px;
 }
 
-/* .page {
-} */
+.page {
+  padding: 16px;
+}
